@@ -1,0 +1,20 @@
+{
+  "name": "googleflog",
+  "description": "Traductor de español al estúpido idioma estilo metroflog.",
+  "main": "googleflog.js",
+  "authors": [
+    "Alejandro AR <abarcadabra@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "googleflog",
+    "metroflog"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
