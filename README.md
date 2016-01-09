@@ -14,6 +14,12 @@ This repository provides a library that's distributed by `npm`.
 $ npm install googleflog
 ```
 
+You can also install using `bower`.
+
+```bash
+$ bower install kinduff/googleflog
+```
+
 ## Support
 This module can be used in:
 - AMD
