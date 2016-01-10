@@ -26,3 +26,9 @@ node_modules
 
 # OS X
 .DS_Store
+
+# gulp-gh-pages tmp
+.publish
+
+# hides app temporily
+app
