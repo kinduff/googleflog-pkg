@@ -1,6 +1,6 @@
 {
   "name": "googleflog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Traductor de español al estúpido idioma estilo metroflog.",
   "main": "dist/googleflog.js",
   "author": "Alejandro AR <abarcadabra@gmail.com>",
