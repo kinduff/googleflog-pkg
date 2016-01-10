@@ -33,7 +33,7 @@ All the code is documented, but here is a brief usage example.
 ```js
 var googleflog = require('googleflog');
 
-// default configuration
+// default options
 googleflog.translate('Me encanta Googleflog jaja saludos', {
   noHead: false,   // no head on result
   noTail: false,   // no tail on result
@@ -49,6 +49,13 @@ googleflog.tailMap = ['¨˜ˆ”°¹~•-.„¸', '<8'];
 
 googleflog.t('ola k ase'); // .t() is an alias for translate
 // ¸„.-•~¹°”ˆ˜¨ 0olA Q AzheE <8
+```
+
+## Gulp tasks
+To generate the original and minified versions for the `dist` folder.
+
+```
+$ gulp
 ```
 
 ## Test

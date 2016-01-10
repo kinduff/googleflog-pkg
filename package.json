@@ -1,11 +1,11 @@
 {
   "name": "googleflog",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Traductor de español al estúpido idioma estilo metroflog.",
-  "main": "googleflog.js",
+  "main": "dist/googleflog.js",
   "author": "Alejandro AR <abarcadabra@gmail.com>",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test/googleflog_test.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,8 @@
   "dependencies": {},
   "devDependencies": {
     "assert": "^1.3.0",
+    "gulp": "^3.9.0",
+    "gulp-uglifyjs": "^0.6.2",
     "mocha": "^2.3.4"
   }
 }

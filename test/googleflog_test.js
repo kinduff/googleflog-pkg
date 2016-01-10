@@ -1,5 +1,5 @@
 var assert = require('assert');
-var googleflog = require('./googleflog');
+var googleflog = require('../src/googleflog');
 
 // custom configuration
 googleflog.headMap = ['head'];
