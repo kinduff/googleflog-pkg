@@ -17,7 +17,7 @@ $ npm install googleflog
 You can also install using `bower`.
 
 ```bash
-$ bower install kinduff/googleflog
+$ bower install kinduff/googleflog-pkg
 ```
 
 ## Support

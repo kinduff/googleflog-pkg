@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kinduff/googleflog.git"
+    "url": "git+https://github.com/kinduff/googleflog-pkg.git"
   },
   "keywords": [
     "googleflog",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kinduff/googleflog/issues"
+    "url": "https://github.com/kinduff/googleflog-pkg/issues"
   },
-  "homepage": "https://github.com/kinduff/googleflog#readme",
+  "homepage": "https://github.com/kinduff/googleflog-pkg#readme",
   "dependencies": {},
   "devDependencies": {
     "assert": "^1.3.0",
